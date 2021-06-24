@@ -37,6 +37,7 @@ function showCart(bookList) {
                                 <p class="card-text">asin:     ${ asin }</p>
                                 <p class="card-text">category: ${ category }</p>
                                 <p class="card-text">price:    ${ price }</p>
+                                <button class="btn btn-primary" type="submit">Button</button>
                             </div>
 
                         </div>`
